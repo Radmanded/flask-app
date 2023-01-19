@@ -1,9 +1,9 @@
 # flask-app web front-end with nornir running in the background. When you enter the url the nornir script runs
 
 Install flask, nornir, 
-python3 -m pip install scrapli[genie]
-python3 -m pip install rich
-Get flask bootstrap - Acts as a CDN that uses templates
+- python3 -m pip install scrapli[genie]
+- python3 -m pip install rich
+- Get flask bootstrap - Acts as a CDN that uses templates
 >Must pip install all the libraries for this to work!
 
 ## Import Flask in the python script
